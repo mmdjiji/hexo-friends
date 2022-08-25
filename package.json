@@ -1,0 +1,23 @@
+{
+  "name": "hexo-friends",
+  "author": "JiJi <i@mmdjiji.com>",
+  "version": "1.0.0",
+  "description": "Hexo friends plugin",
+  "main": "index.js",
+  "keywords": [
+    "plugin",
+    "friends",
+    "link",
+    "hexo"
+  ],
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "hexo-fs": "^3.1.0",
+    "hexo-log": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmdjiji/hexo-friends.git"
+  },
+  "license": "GPL-3.0"
+}
