@@ -1,7 +1,7 @@
 {
   "name": "hexo-friends",
   "author": "JiJi <i@mmdjiji.com>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hexo friends plugin",
   "main": "index.js",
   "keywords": [
