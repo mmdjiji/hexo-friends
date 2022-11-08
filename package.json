@@ -13,7 +13,7 @@
   "dependencies": {
     "ejs": "^3.1.8",
     "hexo-fs": "^4.0.0",
-    "hexo-log": "^3.0.0"
+    "hexo-log": "^4.0.1"
   },
   "repository": {
     "type": "git",
