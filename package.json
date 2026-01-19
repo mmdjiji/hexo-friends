@@ -11,7 +11,7 @@
     "hexo"
   ],
   "dependencies": {
-    "ejs": "^3.1.8",
+    "ejs": "^4.0.1",
     "hexo-fs": "^5.0.0",
     "hexo-log": "^4.0.1"
   },
